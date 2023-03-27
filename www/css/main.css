@@ -1,0 +1,27 @@
+.saitov {
+    color: purple;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.poss {
+    font-size: 20px;
+}
+.group_1 {
+    margin: -800px  1200px 1000px 1200px;
+    padding: 10px;
+    
+}
+.butun {
+    display: block;
+    height: 35px;
+    background: #247fff;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.butun:hover {
+    background-color: #0D6CF2;
+}
+#talgat{
+    text-align: center;
+}
